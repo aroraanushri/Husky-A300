@@ -4,6 +4,12 @@ Bring the Clearpath Husky A300 into NVIDIA Isaac Sim 6.0.1 as a physically corre
 
 # Isaac Sim ROS2 Teleoperation of Husky A300
 
+![1785904089048](image/README/1785904089048.png)
+
+![1785905688767](image/README/1785905688767.png)
+
+![1785904045461](image/README/1785904045461.png)
+
 ## Overview
 
 This project integrates a Husky A300 robot in NVIDIA Isaac Sim 6.0.1 with ROS 2 Humble.
@@ -122,9 +128,3 @@ Grid
 
 - Robot model is visualized through TF and odometry only.
 - RobotModel display in RViz requires a robot_description publisher which is not currently provided by Isaac Sim.
-
-![1785904089048](image/README/1785904089048.png)
-
-![1785905688767](image/README/1785905688767.png)
-
-![1785904045461](image/README/1785904045461.png)
